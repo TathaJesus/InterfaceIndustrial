@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\bin\Debug\Objetivo2.exe.config
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\bin\Debug\Objetivo2.exe
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\bin\Debug\Objetivo2.pdb
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\obj\Debug\Objetivo2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\obj\Debug\Objetivo2.Form1.resources
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\obj\Debug\Objetivo2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\obj\Debug\Objetivo2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\obj\Debug\Objetivo2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\obj\Debug\Objetivo2.exe
+C:\Users\Aluno\Desktop\Atividade2\Objetivo2\Objetivo2\obj\Debug\Objetivo2.pdb
