@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\bin\Debug\Objetivo3.exe.config
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\bin\Debug\Objetivo3.exe
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\bin\Debug\Objetivo3.pdb
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\obj\Debug\Objetivo3.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\obj\Debug\Objetivo3.Form1.resources
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\obj\Debug\Objetivo3.Properties.Resources.resources
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\obj\Debug\Objetivo3.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\obj\Debug\Objetivo3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\obj\Debug\Objetivo3.exe
+C:\Users\Aluno\Documents\InterfaceIndustrial\Atividade2\Objetivo3\Objetivo3\obj\Debug\Objetivo3.pdb
