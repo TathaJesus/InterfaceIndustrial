@@ -1,0 +1,40 @@
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.Form1.resources
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.exe.config
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.exe
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.pdb
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.exe
+C:\Users\Aluno\Desktop\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.pdb
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.exe.config
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.exe
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.pdb
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.Form1.resources
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.Properties.Resources.resources
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.exe
+C:\Users\Aluno\Desktop\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.pdb
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.exe.config
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.exe
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\bin\Debug\AtividadeControleDeTrafego.pdb
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.Form1.resources
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.Properties.Resources.resources
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.exe
+C:\Users\Aluno\Desktop\atualizadotony\TONY ATIVIDADE SEMAFORO\Atividade\AtividadeControleDeTrafego\obj\Debug\AtividadeControleDeTrafego.pdb
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\bin\Debug\AtividadeControleDeTrafego.exe.config
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\bin\Debug\AtividadeControleDeTrafego.exe
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\bin\Debug\AtividadeControleDeTrafego.pdb
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\obj\Debug\AtividadeControleDeTrafego.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\obj\Debug\AtividadeControleDeTrafego.Form1.resources
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\obj\Debug\AtividadeControleDeTrafego.Properties.Resources.resources
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\obj\Debug\AtividadeControleDeTrafego.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\obj\Debug\AtividadeControleDeTrafego.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\obj\Debug\AtividadeControleDeTrafego.exe
+C:\Users\Aluno\Desktop\atividadeSemaforo\AtividadeSemaforo\obj\Debug\AtividadeControleDeTrafego.pdb
